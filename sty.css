@@ -40,6 +40,10 @@ body {
   height: 30em;
   width: 25em;
 }
+.panda:hover{
+  transform: scale(1.2) ;
+}
+
 
 .head {
   background-color: #fffcfc;
